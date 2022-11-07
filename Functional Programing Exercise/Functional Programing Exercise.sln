@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Applied Aritmetics", "05. Applied Aritmetics\05. Applied Aritmetics.csproj", "{2842E2D5-2CA7-4CF8-9F10-469EE5483F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Reverse And Exclude", "06. Reverse And Exclude\06. Reverse And Exclude.csproj", "{42B4AE08-C62C-4C37-9783-99F2080BA204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Predicate Party!", "09. Predicate Party!\09. Predicate Party!.csproj", "{37F810F1-791E-4E22-84EC-2BF871E42A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2842E2D5-2CA7-4CF8-9F10-469EE5483F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2842E2D5-2CA7-4CF8-9F10-469EE5483F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2842E2D5-2CA7-4CF8-9F10-469EE5483F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2842E2D5-2CA7-4CF8-9F10-469EE5483F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B4AE08-C62C-4C37-9783-99F2080BA204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B4AE08-C62C-4C37-9783-99F2080BA204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B4AE08-C62C-4C37-9783-99F2080BA204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B4AE08-C62C-4C37-9783-99F2080BA204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F810F1-791E-4E22-84EC-2BF871E42A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F810F1-791E-4E22-84EC-2BF871E42A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F810F1-791E-4E22-84EC-2BF871E42A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F810F1-791E-4E22-84EC-2BF871E42A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56460B73-ADEB-4D13-9B31-CC3A7D52CE37}
+	EndGlobalSection
+EndGlobal
