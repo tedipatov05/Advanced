@@ -8,7 +8,7 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            IEnumerable<int> ints = { 3, 5, 7,, 9 };
+            IEnumerable<int> ints = new List<int> () { 3, 5, 7, 9 };
 
            
             
